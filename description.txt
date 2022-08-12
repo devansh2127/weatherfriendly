@@ -1,0 +1,6 @@
+Hello.
+We have made an elegant yet simple website which can fetch you weather (and more..) in no time. 
+Our goal from the start was to make functional and easy to use website which works across platform flawlessly.
+You can obtain the weather & climate of any location by simply inputing the location's name on our search bar.
+WeatherFriendly goes by the name... it is awesomely user-friendly.
+Design is inspired from the refrences provided.
